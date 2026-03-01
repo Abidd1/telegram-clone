@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Clone",
+  "description": "A real-time messaging application built with React, Express, and WebSockets.",
+  "requestFramePermissions": []
+}
