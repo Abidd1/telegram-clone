@@ -60,6 +60,7 @@ The application uses a full-stack architecture where a single Node.js process ru
 3. The application will be available at \`http://localhost:3000\`.
 
 ## Development Notes
+#Build by abid ali 
 
 - The database is automatically seeded with some initial users (Alice, Bob, Charlie) and a "General Chat" group if it is empty upon starting the server.
 - The WebSocket connection automatically uses \`wss://\` if the page is loaded over HTTPS, and \`ws://\` otherwise.
