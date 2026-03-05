@@ -62,6 +62,10 @@ The application uses a full-stack architecture where a single Node.js process ru
 ## Development Notes
 #Build by abid ali 
 #New Updates are comming soon, where the user will expierienced with advanced tools and features 
+## What to Include
+Read recipients
+last seen or online 
+privacy 
 
 - The database is automatically seeded with some initial users (Alice, Bob, Charlie) and a "General Chat" group if it is empty upon starting the server.
 - The WebSocket connection automatically uses \`wss://\` if the page is loaded over HTTPS, and \`ws://\` otherwise.
