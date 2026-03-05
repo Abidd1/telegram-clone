@@ -65,7 +65,7 @@ The application uses a full-stack architecture where a single Node.js process ru
 ## What to Include
 Read recipients
 last seen or online 
-privacy 
+privacy and authenthication 
 
 - The database is automatically seeded with some initial users (Alice, Bob, Charlie) and a "General Chat" group if it is empty upon starting the server.
 - The WebSocket connection automatically uses \`wss://\` if the page is loaded over HTTPS, and \`ws://\` otherwise.
